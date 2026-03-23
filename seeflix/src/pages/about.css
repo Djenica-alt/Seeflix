@@ -1,0 +1,17 @@
+.hero-s{
+    background-image: url(\heroo.jpg);
+}
+/* h1{
+    color: white;
+    font-size: 48px;
+    text-align: center;
+    padding: 100px 0;
+} */
+.value{
+    width: 100px;
+    height: 200px;
+}
+
+.mission-text{
+    display: block;
+}
