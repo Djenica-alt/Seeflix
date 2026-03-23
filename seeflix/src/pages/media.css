@@ -1,0 +1,15 @@
+.media{
+    justify-content: center;
+}
+.mediaGrid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 10px
+   
+}
+.media h1{
+    color: white;
+    font-size: 48px;
+    text-align: center;
+    padding: 100px 0;
+}

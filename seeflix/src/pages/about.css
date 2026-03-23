@@ -1,12 +1,8 @@
 .hero-s{
     background-image: url(\heroo.jpg);
+    background-size: cover;
+    background-position: center;
 }
-/* h1{
-    color: white;
-    font-size: 48px;
-    text-align: center;
-    padding: 100px 0;
-} */
 .value{
     width: 100px;
     height: 200px;
@@ -14,4 +10,11 @@
 
 .mission-text{
     display: block;
+}
+.hero-s h1{
+    color: white;
+    font-size: 48px;
+    text-align: center;
+    padding: 15%;
+
 }

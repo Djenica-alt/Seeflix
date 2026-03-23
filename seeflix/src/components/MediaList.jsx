@@ -8,6 +8,7 @@ export default function MediaList({title, items}){
                 {items.map((item) => (
                     <MediaCard key={item.id} title={item.title} 
                     cover={item.cover} rating={item.rating} 
+                    type={item.type}
                     />
                 ))}
             </ul>
