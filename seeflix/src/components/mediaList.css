@@ -1,0 +1,10 @@
+section h2{
+    margin: 25px;
+    padding: 10px 0px 10px 0px;
+}
+section ul{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+  
+}
