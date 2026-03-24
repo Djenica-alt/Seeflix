@@ -4,16 +4,27 @@
     background-position: center;
 }
 .value{
-    width: 100px;
+    width: 300px;
     height: 200px;
+}
+.values{
+    display: flex;
+    justify-content:space-between;
+    margin-left: 100px;
+    margin-right: 300px;
 }
 
 .mission-text{
     display: grid;
     grid-template-columns: 1fr;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 .mission{
     display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
 
 }
 .hero-s h1{

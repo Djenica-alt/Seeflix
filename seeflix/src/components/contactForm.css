@@ -1,0 +1,36 @@
+#im{
+    width: 300px;
+    height: 250px;
+    margin-left: 100px;
+    padding-bottom: 40px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+}
+
+form input,
+form textarea {
+  margin-bottom: 10px;
+  padding:10px;
+  padding-right: 200px;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+  margin-right: 200px;
+}
+form textarea {
+  resize: none;
+  height: 80px;
+}
+form button {
+  border: none;
+  padding: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  
+}

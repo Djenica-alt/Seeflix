@@ -13,13 +13,17 @@ export default function About() {
             </div>
         </div>
         <div className="values">
-            <h2>Our Values</h2>
-            <ul>
+            <div>
+                 <h2>Our Values</h2>
+              <ul>
                 <li>Quality Content</li>
                 <li>User Satisfaction</li>
                 <li>Innovation</li>
                 <li>Community & Creativity</li>
-            </ul>
+              </ul>
+
+            </div>
+            
 
             <img src="values.png" alt="Our Values" className="value"/>
         </div>

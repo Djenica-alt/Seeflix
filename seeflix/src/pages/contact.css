@@ -1,0 +1,8 @@
+.cont{
+   background-image: url(\heroo.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.cont h1{
+    text-align: center;
+}
