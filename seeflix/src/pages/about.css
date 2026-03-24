@@ -9,12 +9,24 @@
 }
 
 .mission-text{
-    display: block;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.mission{
+    display: flex;
+
 }
 .hero-s h1{
     color: white;
     font-size: 48px;
     text-align: center;
     padding: 15%;
+
+}
+.logoMission{
+    width: 150px;
+    height: 150px;
+    margin: 30px;
+
 
 }
